@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS nuclio_classicmodels;
-CREATE DATABASE IF NOT EXISTS nuclio_classicmodels;
+DROP DATABASE IF EXISTS ejercicio_classicmodels;
+CREATE DATABASE IF NOT EXISTS ejercicio_classicmodels;
